@@ -1,0 +1,7 @@
+Mi primera practica con Git y Github
+
+Nombre: Sergio Manrique
+Curso: Aplicaciones Open Source
+Fecha: 11/19/2026
+
+Estoy aprendiendo a usar el control de versiones
